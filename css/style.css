@@ -1,0 +1,44 @@
+* {
+  width: 400px;
+  height: 550px;
+  margin: 5px;
+  }
+.border {
+    border: solid 2px #5a5a5a;
+  }
+p {
+	font-size: 22px;
+	font-family: "Tahoma";
+	text-align: center;
+	position: absolute;
+}
+.image {
+	width: 255px;
+	height: 289px;
+	margin: 85px 0 0 72px;
+}
+.plan {
+	margin: 0;
+	width: 200px;
+	height: 32px;
+	background: #8bc144;
+	color: #fff;
+	box-shadow: -4px 4px  #9c9c9c;
+}
+.cost {
+	width: 228px;
+	height: 66px;
+	padding: 42px 0 0 64px;
+	font-size: 31px;
+}
+.buy {
+	width: 228px;
+	height: 46px;
+	margin: 98px 0 0 64px;;
+	position: absolute;
+	background: #ff0000;
+	color: #fff;
+	box-shadow: 0 4px 0 #850000;
+	line-height: 45px;
+
+}
