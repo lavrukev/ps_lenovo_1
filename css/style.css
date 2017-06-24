@@ -6,7 +6,7 @@
 .border {
     border: solid 2px #5a5a5a;
   }
-p {
+p, .buy {
 	font-size: 22px;
 	font-family: "Tahoma";
 	text-align: center;
@@ -30,6 +30,7 @@ p {
 	height: 66px;
 	padding: 42px 0 0 64px;
 	font-size: 31px;
+
 }
 .buy {
 	width: 228px;
@@ -38,7 +39,10 @@ p {
 	position: absolute;
 	background: #ff0000;
 	color: #fff;
-	box-shadow: 0 4px 0 #850000;
+	box-shadow: -1px 4px 0 -1px #850000;
 	line-height: 45px;
+	text-shadow: -1px 1px 0px #000000;
+	display: block;
+	text-decoration: none;
 
 }
